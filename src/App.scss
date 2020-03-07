@@ -1,0 +1,52 @@
+$icon-size: 50px;
+
+.App {
+  background: #61619E;
+  color: white;
+  height: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+  nav {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    position: absolute;
+    top: calc(38.2%);
+    margin-top: -$icon-size / 2;
+  }
+
+  a {
+    display: block;
+    text-decoration: none;
+    padding: 20px 10px;
+    min-height: $icon-size;
+    background-color: white;
+    color: black;
+
+    span {
+      line-height: $icon-size;
+    }
+
+    img {
+      display: block;
+    }
+  }
+
+  a:hover {
+    color: white;
+    background-color: black;
+
+    .icon {
+      filter: invert(1);
+    }
+  }
+
+  .icon {
+    height: $icon-size;
+    pointer-events: none;
+  }
+
+}
