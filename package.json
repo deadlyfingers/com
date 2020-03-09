@@ -11,7 +11,7 @@
     "test:coverage": "react-scripts test --coverage --env=jsdom --watchAll=false",
     "test:debug": "react-scripts --inspect-brk test --runInBand --no-cache",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build && copy",
+    "predeploy": "yarn build && yarn copy",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
