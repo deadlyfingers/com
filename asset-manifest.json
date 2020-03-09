@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d14140db.chunk.css",
+    "main.js": "/static/js/main.666fdc5b.chunk.js",
+    "main.js.map": "/static/js/main.666fdc5b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6dd7f5ce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6dd7f5ce.js.map",
+    "static/js/2.347f7a79.chunk.js": "/static/js/2.347f7a79.chunk.js",
+    "static/js/2.347f7a79.chunk.js.map": "/static/js/2.347f7a79.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1398e74deb3981ed5e29f63e82169e55.js": "/precache-manifest.1398e74deb3981ed5e29f63e82169e55.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d14140db.chunk.css.map": "/static/css/main.d14140db.chunk.css.map",
+    "static/js/2.347f7a79.chunk.js.LICENSE.txt": "/static/js/2.347f7a79.chunk.js.LICENSE.txt",
+    "static/media/code.svg": "/static/media/code.00f1db5e.svg",
+    "static/media/deadlyfingers.svg": "/static/media/deadlyfingers.4f662e4d.svg",
+    "static/media/github.svg": "/static/media/github.f333efe2.svg",
+    "static/media/instagram.svg": "/static/media/instagram.086b4a90.svg",
+    "static/media/twitter.svg": "/static/media/twitter.743b641c.svg",
+    "static/media/youtube.svg": "/static/media/youtube.bf349d51.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd7f5ce.js",
+    "static/js/2.347f7a79.chunk.js",
+    "static/css/main.d14140db.chunk.css",
+    "static/js/main.666fdc5b.chunk.js"
+  ]
+}
